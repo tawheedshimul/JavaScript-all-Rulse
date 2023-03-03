@@ -5,6 +5,7 @@ console.log(thank);
 
 
 // variable for number 
+// brother do it fast 
 
 var hisage = 20;
 var herage =18;
